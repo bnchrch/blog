@@ -51,7 +51,7 @@ const IndexPage = ({
       <Hero>
         <h1>Hi.</h1>
         <p>
-          I&apos;m Ben, an Engineer who&apos;s loves to build. Products, Processes, Teams, Front, Back. Below is just a collection of what I&apos;ve written on former. If you want to know more about me just get in touch!
+          I&apos;m Ben, an Engineer who&apos;s loves to build.<br/>Products, Processes, Teams, Front, Back, you name it. Below is just a collection of what I&apos;ve been able to write on it all. If you want to know more about me just get in touch!
         </p>
         <a href="https://ben.church">
           <Button big>
