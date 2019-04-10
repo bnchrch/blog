@@ -60,7 +60,7 @@ const IndexPage = ({
             </svg>
             Get in touch
           </Button>
-        </Link>
+        </a>
       </Hero>
       <Content>
         <SectionTitle>Latest stories</SectionTitle>
